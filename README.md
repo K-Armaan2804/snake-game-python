@@ -1,4 +1,4 @@
-#  Snake Game — Python & Tkinter
+#  Snake Game 
 
 A classic Snake Game built with Python using the Tkinter GUI library.
 
@@ -20,7 +20,7 @@ A classic Snake Game built with Python using the Tkinter GUI library.
 
 No external libraries required.
 
-## ⚙️ Configuration
+## Configuration
 
 You can tweak these constants in `main.py`:
 
